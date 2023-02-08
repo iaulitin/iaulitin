@@ -1,6 +1,7 @@
 # Hey, I'm Ilia 👋
 
-I work as a Java ☕ developer for 5.5 years and have 3 years of team and tech leading experience
+I work as a Java ☕ developer for 5.5 years and have 3 years of team and tech leading experience.
+
 I live in Belgrade, Serbia 🇷🇸
 
 ## I'm used to work with
