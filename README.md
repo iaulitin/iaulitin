@@ -6,6 +6,7 @@ I live in Belgrade, Serbia 🇷🇸
 
 ## I'm used to work with
 ![Java](https://img.shields.io/badge/java-CC0000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white) 
